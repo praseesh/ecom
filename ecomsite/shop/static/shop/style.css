@@ -1,3 +1,10 @@
 body{
     background-color: rgb(127, 127, 127);
 }
+.card-text{
+    color: rgb(68, 133, 2);
+    font-weight: 900;
+}
+.card-title{
+    font-weight: 900;
+}
