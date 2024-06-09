@@ -8,3 +8,7 @@ body{
 .card-title{
     font-weight: 900;
 }
+.page-link{
+    color: aliceblue;
+    background-color: darkblue;
+}
